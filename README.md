@@ -117,22 +117,41 @@ moi.dire_bonjour()
 ## 🚀 Projet Phare : NUKU
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Denimelo&repo=nuku&theme=tokyonight&hide_border=true&border_radius=10" alt="NUKU_plateforme" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Denimelo&repo=Nuku_api&theme=tokyonight&hide_border=true&border_radius=10" alt="NUKU API" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Denimelo&repo=Nuku_plateforme&theme=tokyonight&hide_border=true&border_radius=10" alt="NUKU Frontend" />
 </div>
 
 ### 💡 Plateforme d'Accélération Entrepreneuriale
-**Stack Technique :** FastAPI ⚡ + Remix ⚛️
+**Architecture Microservices :** FastAPI ⚡ + Remix ⚛️
+
+| Repository | Technologie | Description |
+|:----------:|:-----------:|:-----------:|
+| 🔧 **[Nuku_api](https://github.com/Denimelo/Nuku_api)** | FastAPI + PostgreSQL | API Backend robuste et sécurisée |
+| 🎨 **[Nuku_plateforme](https://github.com/Denimelo/Nuku_plateforme)** | Remix + TailwindCSS | Interface utilisateur moderne |
 
 <details>
-<summary>🔍 <b>Fonctionnalités Principales</b></summary>
+<summary>🔍 <b>Fonctionnalités & Architecture</b></summary>
 
+### 🔧 Backend (FastAPI)
 - 👥 **Gestion Multi-Rôles** : Admin, Expert, Entrepreneur
+- 🔒 **Authentification JWT** : Sécurité avancée avec tokens
+- 🗄️ **Base de données** : PostgreSQL avec ORM SQLAlchemy
+- 🌐 **API RESTful** : Architecture scalable et documentée
+- ✅ **Validation de données** : Pydantic pour la robustesse
+- 📤 **Upload de fichiers** : Gestion des documents entrepreneurs
+
+### 🎨 Frontend (Remix)
 - 📋 **Onboarding Intelligent** : Inscription guidée des entrepreneurs
-- 🔄 **Système d'Interactions** : Messagerie et collaboration
-- ✅ **Workflow de Validation** : Process d'approbation structuré
-- 📊 **Dashboard Analytics** : Métriques en temps réel
-- 🔒 **Authentification JWT** : Sécurité avancée
-- 🌐 **API RESTful** : Architecture scalable
+- 🔄 **Interface Interactive** : Dashboard responsive et moderne
+- 📊 **Analytics en temps réel** : Métriques et statistiques
+- 💬 **Système de Messagerie** : Communication intégrée
+- 🎯 **UX Optimisée** : Design centré utilisateur
+
+### 🏗️ Architecture
+- 🔄 **Séparation des préoccupations** : Backend/Frontend découplés
+- 🚀 **Performance** : SSR avec Remix + API rapide FastAPI
+- 🔐 **Sécurité** : Authentification robuste et validation stricte
+- 📈 **Scalabilité** : Architecture prête pour la croissance
 
 </details>
 
