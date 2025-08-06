@@ -1,7 +1,7 @@
 # 👨‍💻 APELETE Koffi Narcisse (@Denimelo)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Développeur%20Fullstack&fontSize=50&fontAlignY=38&desc=Créateur%20d'expériences%20numériques%20innovantes&descAlignY=51&descAlign=50&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=400&section=header&text=Développeur%20Fullstack&fontSize=50&fontAlignY=38&desc=Créateur%20d'expériences%20numériques%20innovantes&descAlignY=51&descAlign=50&animation=twinkling" />
 </div>
 
 <div align="center">
