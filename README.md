@@ -1,11 +1,11 @@
 # 👨‍💻 APELETE Koffi Narcisse (@Denimelo)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=400&section=header&text=Développeur%20Fullstack&fontSize=50&fontAlignY=38&desc=Créateur%20d'expériences%20numériques%20innovantes&descAlignY=51&descAlign=50&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Développeur%20Fullstack&fontSize=50&fontAlignY=38&desc=Créateur%20d'expériences%20numériques%20innovantes&descAlignY=51&descAlign=50&animation=twinkling" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Développeur+Fullstack;🎨+UI%2FUX+Designer;📊+Data+Analyst;🤖+Passionné+d'IA+%26+DevOps;🌍+Basé+à+Lomé%2C+Togo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=200&lines=🚀+Développeur+Fullstack;🎨+UI%2FUX+Designer;📊+Data+Analyst;🤖+Passionné+d'IA+%26+DevOps;🌍+Basé+à+Lomé%2C+Togo" alt="Typing SVG" />
 </div>
 
 <div align="center">
