@@ -117,7 +117,7 @@ moi.dire_bonjour()
 ## 🚀 Projet Phare : NUKU
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Denimelo&repo=nuku&theme=tokyonight&hide_border=true&border_radius=10" alt="NUKU Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Denimelo&repo=nuku&theme=tokyonight&hide_border=true&border_radius=10" alt="NUKU Plateforme" />
 </div>
 
 ### 💡 Plateforme d'Accélération Entrepreneuriale
